@@ -6,3 +6,7 @@ Go gildong
 010-1234-1234
 go@naver.com
 Seoul
+Kim gildong
+010-2222-3333
+kim@naver.com
+Seoul
